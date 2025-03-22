@@ -1,6 +1,6 @@
 ## 😄 Glad to see you here! I'm Leonardo Gama 👋
 
-I'm a passionate **Software Engineer** and **DevOps Engineer** with a background in **Jenkins**, **Groovy**, **Python**, **Shell scripting**, **Docker**, and **Kubernetes**. I’ve worked across various domains, with experience in **Java backend development (Spring Boot)**, building robust applications in fast-paced consulting environments.
+I'm a passionate **Software Engineer** and **DevOps Engineer** with a background in **Jenkins**, **Groovy**, **Python**, **Shell scripting**, **Ansible**, **Terraform** and **Docker** and **Kubernetes**. I’ve worked across various domains, with experience in **Java backend development (Spring Boot)**, building robust applications in fast-paced consulting environments.
 
 ### 🚀 Current Focus
 
@@ -47,8 +47,6 @@ I also have research experience. I worked as a **Researcher in the Distributed S
 <p>
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"></a>
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/pytest-%23ffffff.svg?logo=pytest&logoColor=2f9fe3"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"></a>
-    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff"></a>
 </p>
 
 #### 🗄️ Databases and Cloud Hosting
@@ -62,8 +60,12 @@ I also have research experience. I worked as a **Researcher in the Distributed S
 #### 💻 Software and tools
 
 <p>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"></a>
+    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff"></a>
+    <a href="#"><img alt="Ansible" src=https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white></a>
+    <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white"></a>
+    <a href="#"><img alt="Google chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
