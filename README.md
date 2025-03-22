@@ -1,6 +1,6 @@
 ## 😄 Glad to see you here! I'm Leonardo Gama 👋
 
-I'm a passionate **Software Engineer** and **DevOps Engineer** with a background in **Jenkins**, **Groovy**, **Python**, **Shell scripting**, **Ansible**, **Terraform** and **Docker** and **Kubernetes**. I’ve worked across various domains, with experience in **Java backend development (Spring Boot)**, building robust applications in fast-paced consulting environments.
+I'm a passionate **Software Engineer** and **DevOps Engineer** with a background in **Jenkins**, **Groovy**, **Python**, **Shell scripting**, **Ansible**, **Terraform**, **Docker** and **Kubernetes**. I’ve worked across various domains, with experience in **Java backend development (Spring Boot)**, building robust applications in fast-paced consulting environments.
 
 ### 🚀 Current Focus
 
